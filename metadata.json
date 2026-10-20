@@ -1,0 +1,6 @@
+{
+  "name": "Custom Domain Email Forwarder",
+  "description": "Free custom domain email forwarding to Gmail with authenticated Send As SMTP relay configuration, DNS verification, and live testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
